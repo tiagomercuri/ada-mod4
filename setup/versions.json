@@ -1,0 +1,385 @@
+{
+    "Versions": [
+        {
+            "ETag": "\"b98e667d883f1d7ce706431965aacef9\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 181,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "Ck8Y7qUjLqzQvsRfVl_BSfbDjJUpI0nG",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T20:55:53.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"df6441a865ce4a940558e6312dbed7a5\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 14857,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "FWygTsPY1Fcwz38gDVM1RK.J0E8YNoGe",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T20:55:35.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"b5f53456f87458cd6b6a71429b83857e\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 100784,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "FUoA91BhmNZwT.Gy2lnvgHT1r5m5ie5Z",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T20:55:04.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"a79430e0d15cf67ca64e3fc1dde5e501\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 109785,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "_uUkdU7_XVjvRuv6r.WFf2rs6FZGmM3X",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T20:40:08.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"2ae072d31d92e11f1d2abca561677b5f\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 67659,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "qyG_69kuwv3c77JtcisHlHSV0zaonpKU",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T20:39:55.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"328e27c82cda9f724e2a3d7f061bba47\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 53009,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "wgfBVOqHeKRuMIiUyvTrH9dl2rNYoZaW",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T20:36:50.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"fa033026c397962a7690d32eb7473190\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 181,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "tuKFUuQqxjv3OVA0SojzKXw6jW5gegDQ",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T05:47:46.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"950cb61bf1d7d633e649ae9356da265e\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 10910,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "jWFHhJGT9N8Bjfluk4nvQHTrT27w3sRo",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T05:47:43.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"8863fdcae06caded38efa7e88458b4d6\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 40192,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "9dkjkcQ5HMCeOpbZtUC9JejgofE4PKAw",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T05:47:19.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"438697000b1355a21e10c83c294c02aa\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 100375,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "SIoPm56N9d1vD30TDOgBdpqjUHeQMOE_",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T05:46:57.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"ef2a849d00a150b348805ee2bbc43a7e\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 109450,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "XwPrGMb3LAlvyIKug6RVJp5ET7GsVBAg",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T05:28:55.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"a3c60a8a5df5ec070518237fded466bc\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 67575,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "WMWJ9VTqIodooQRgm6kFfbkn_hQkRpmQ",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T05:28:45.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"3350c5a2b42a28665da24bba94a623b1\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 63246,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "xjyWLTt9KADS75yA2m5pV_aNqBHik8X1",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T05:20:56.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"79b5d0f7bd864e85100db96490c68baf\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 63196,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "tYKuUSLKMeGx7doXCMDZiONG6cir_W9x",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T05:08:39.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"6a8df8fb72b8dd708a8e85da09d15142\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 63202,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "Tsr.8TuxDKHEK3sNrWyoJw5C2vVd2G_2",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T05:08:38.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"a474b2fd2ff4df65a9e49f1af11a8ecf\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 55166,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "kjGOeyh5U1tK6S.CkdpKZN8oiXnsYwhk",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T04:54:01.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"274fd487e6874ac21870cb866141b963\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 48995,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "G8aXQgEHSPGe73BOTv40zO1rwU7Ofrx7",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T04:53:38.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"2c7bf53b727c490193e55796265676e2\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 59966,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "UsD4hBSLSl6Z2s8.Cm.qkId7ZGbsT.6L",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T04:53:16.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"ca558bfc11389cb4627521d01a396551\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 63425,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "FfDUjaITzlF7oYOuFOkmzRAkeVtmCw0l",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T04:46:18.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"bfafebb470b5dab54e50475e1b40bd5e\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 72856,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "nbQYfEaXW_AopiWmd_oAQ1p3AcYCdBcg",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T03:56:43.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"e48ac9a166a9b066ad8639876cb808db\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 53715,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "0MoO6b2K7RHgU7kay48uDgPQbFJUuR.L",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T03:56:39.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"965b7dce8d34ecd5a7fdfaf60ebba7b7\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 50557,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "O7WAdL46yshZeDxfSA_2M9xmnloLwnQF",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T03:54:07.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        },
+        {
+            "ETag": "\"8f484a5e4a6ef3e06a3afb870b06c4b1\"",
+            "ChecksumAlgorithm": [
+                "SHA256"
+            ],
+            "Size": 41736,
+            "StorageClass": "STANDARD",
+            "Key": "terraform.tfstate",
+            "VersionId": "Iu3_8Fa0VdKrdXWWqzi2bElck2fHU9kv",
+            "IsLatest": false,
+            "LastModified": "2024-05-22T03:53:41.000Z",
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            }
+        }
+    ],
+    "DeleteMarkers": [
+        {
+            "Owner": {
+                "DisplayName": "student-sandbox+67",
+                "ID": "438651c806ab72881e9b3fd9f9a1c42f86dc3597cad00bd78889745918dc46d4"
+            },
+            "Key": "terraform.tfstate",
+            "VersionId": "jv88dOFeQpRSbCs38QFwHJp9uKrb_SoW",
+            "IsLatest": true,
+            "LastModified": "2024-05-22T21:01:23.000Z"
+        }
+    ],
+    "RequestCharged": null
+}
