@@ -22,4 +22,10 @@ terraform plan
 terraform apply
 ```
 
+- Para finalizar, execute o comando abaixo para destroir os recursos na AWS, e finalizar a execução do projeto:
+
+```BASH
+terraform destroy
+```
+
 ====================================================================================
